@@ -1,6 +1,7 @@
 # The Horiseon Experience
 
 ## Description
+
 - To market our product and resources for our client.
 - To help clients attract people to their website to increase buisiness. 
 
@@ -13,17 +14,12 @@
 
 ## Usage
 
-?????
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+- To leave notes in the CSS file, this is how I would like them done. assets\images\CSS notes example.png
+- To leave notes in Index.Html file, this is how I would like them done. assets\images\Index.html notes example.png
 
 ## Credits
 
-Collaborators = George Jordan (GITHUB)
+Collaborators = George Jordan (asdfaf)
 
 If you followed tutorials, include links to those here as well.
 
@@ -31,7 +27,7 @@ If you followed tutorials, include links to those here as well.
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [George Jordan]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -50,12 +46,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Badges
-
-<img alt="Azure DevOps coverage" src="https://img.shields.io/azure-devops/coverage/thejudges/thechallenge/1?style=for-the-badge">
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
