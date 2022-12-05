@@ -3,7 +3,7 @@
 ## Description
 
 - To market our product and resources for our client.
-- To help clients attract people to their website to increase buisiness. 
+- To help clients attract people to their website to increase business. 
 
 ## Installation
 
@@ -19,9 +19,9 @@
 
 ## Credits
 
-Collaborators = George Jordan (asdfaf)
+Collaborators = George Jordan (xasdfaf)
 
-If you followed tutorials, include links to those here as well.
+Tutorials / References to complete this project - https://www.w3schools.com/Css/css_selectors.asp, https://stackoverflow.com/questions/13127493/stop-text-moving-html
 
 ## License
 
