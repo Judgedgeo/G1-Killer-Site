@@ -14,8 +14,9 @@
 
 ## Usage
 
-- To leave notes in the CSS file, this is how I would like them done. assets\images\CSS notes example.png
-- To leave notes in Index.Html file, this is how I would like them done. assets\images\Index.html notes example.png
+- To leave notes in the CSS file, this is how I would like them done. ![CSS notes example](https://user-images.githubusercontent.com/115055273/207756848-7f4da54a-2757-4b58-9054-d9cf25fccdc7.png)
+- To leave notes in Index.Html file, this is how I would like them done. ![Index html notes example](https://user-images.githubusercontent.com/115055273/207756983-cda39e7a-de14-4f4d-ada0-c9e86d10b78b.png)
+
 
 ## Credits
 
